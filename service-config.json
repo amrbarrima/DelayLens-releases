@@ -1,7 +1,7 @@
 {
-  "version": 1,
-  "downloadUrl": "https://github.com/amrbarrima/DelayLens-releases/releases/latest/download/DelayLens-Setup.exe",
-  "trialRequestUrl": "https://github.com/amrbarrima/DelayLens-releases#get-a-free-trial",
-  "feedbackEndpoint": "https://script.google.com/macros/s/AKfycbz_DelayLens_Default/exec",
-  "activationEndpoint": "https://script.google.com/macros/s/AKfycbz_DelayLens_Default/exec"
+    "activationEndpoint":  "https://script.google.com/macros/s/AKfycbzh0LJWxSOGBh3kHV5F6VvOwDK6yQjPT39MrVJyzNG2N_5foTlvHxfkaCbzj8RlFymQ/exec",
+    "feedbackEndpoint":  "https://script.google.com/macros/s/AKfycbzh0LJWxSOGBh3kHV5F6VvOwDK6yQjPT39MrVJyzNG2N_5foTlvHxfkaCbzj8RlFymQ/exec",
+    "trialRequestUrl":  "https://github.com/amrbarrima/DelayLens-releases#get-a-free-trial",
+    "version":  1,
+    "downloadUrl":  "https://github.com/amrbarrima/DelayLens-releases/releases/latest/download/DelayLens-Setup.exe"
 }
