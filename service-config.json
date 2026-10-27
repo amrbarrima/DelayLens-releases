@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "downloadUrl": "https://github.com/amrbarrima/DelayLens-releases/releases/latest/download/DelayLens-Setup.exe",
+  "trialRequestUrl": "https://github.com/amrbarrima/DelayLens-releases#get-a-free-trial",
+  "feedbackEndpoint": "https://script.google.com/macros/s/AKfycbz_DelayLens_Default/exec",
+  "activationEndpoint": "https://script.google.com/macros/s/AKfycbz_DelayLens_Default/exec"
+}
